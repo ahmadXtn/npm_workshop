@@ -1,0 +1,23 @@
+{
+  "name": "npm_workshop",
+  "version": "1.0.0",
+  "description": "npm workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadXtn/npm_workshop.git"
+  },
+  "keywords": [
+    "npm",
+    "workshop"
+  ],
+  "author": "ahmed bouazizi <bouaziziahmed1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmadXtn/npm_workshop/issues"
+  },
+  "homepage": "https://github.com/ahmadXtn/npm_workshop#readme"
+}
